@@ -1,3 +1,6 @@
+//usar extends Exception
+//sempre criar uma public junto
+
 public class ParametrosInvalidosException extends Exception {
 
     public ParametrosInvalidosException() {
